@@ -1,7 +1,11 @@
 # Range-Estimation-Tool
 In the specific example of estimating range using a flat-rate slope approach, a rough delineation of the range of landslide processes is calculated using Python and QGIS, incorporating GIS and terrain analyses.
 
- <h2>Change Detection Tool</h2>
+ <h2>Case Examples</h2>
+ 
+ ![image](https://github.com/pyAlpineRisk/RangeEstimationTool/assets/52344347/817db708-2c8b-4103-8beb-d673ee12a2b8)
+
+ 
 <p> The QGIS Change Detetcion Tool(QCD) is an an open-source python-based change detection tool for raster formats designed for QGIS. The tool is used to calculate an accurate change detection by determine and visualise reliable surface- and volume changes in multi-temporal DTMs.</p> 
 
 <h2>Installation/Application</h2>
